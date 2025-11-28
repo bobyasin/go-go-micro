@@ -1,0 +1,22 @@
+# Database data
+db-data/
+
+# Docker volumes
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temp
+tmp/
+temp/
